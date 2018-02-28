@@ -36,7 +36,6 @@ plugins:
   - jekyll-feed
   - rouge
   - jekyll-sitemap
-  - jekyll-theme-midnight
 
 footer-links:
   github: commiebstrd

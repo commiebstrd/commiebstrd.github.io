@@ -19,7 +19,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   #rustlang #python #debugging #radare2 #assembly
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://commiebstrd.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+future: true
 avatar: https://avatars3.githubusercontent.com/u/4625186
+repository: commiebstrd/commiebstrd.github.io
 twitter_username: c0mmiebstrd
 github_username:  commiebstrd
 
